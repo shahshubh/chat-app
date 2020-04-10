@@ -19,7 +19,9 @@
 }
 
 .activeContainer img {
-	padding-left: 10px;
+	padding-right: 10px;
+	width: 20px;
+	height: 10px;
 }
 
 .textContainer h1 {
